@@ -3,8 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </p>
 
-<img align="right" width="300px" alt="coding boy" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
 ## 🧠 About me
 
 I’m a 20-year-old Software Engineer passionate about tech and development. I work with modern frameworks and love building high-impact projects.
@@ -68,10 +66,3 @@ I’m a 20-year-old Software Engineer passionate about tech and development. I w
 <a href="https://www.youtube.com/@BenjiJ379">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
-
----
-
-## 📊 GitHub Stats
-
-[![BenjiJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjijal&show_icons=true&theme=tokyonight)](https://github.com/benjijal)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benjijal&theme=tokyonight)](https://github.com/benjijal)
