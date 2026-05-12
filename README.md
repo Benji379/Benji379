@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hi, I'm Benji JAL 👋</b></h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://avatars.githubusercontent.com/u/108637204?v=4" width="80">
 </p>
 
 ## 🧠 About me
 
-I’m a 20-year-old Software Engineer passionate about tech and development. I work with modern frameworks and love building high-impact projects.
+I’m a 21-year-old Software Engineer passionate about tech and development. I work with modern frameworks and love building high-impact projects.
 
 - 🌱 Currently learning and working with:
   - React.js ⚛️
@@ -14,6 +14,7 @@ I’m a 20-year-old Software Engineer passionate about tech and development. I w
   
 - 🚀 I enjoy automating things, building tools, and learning new technologies.
 - 📫 Reach me at: [benjij379@gmail.com](mailto:benjij379@gmail.com)
+- 🌐 Website: [benjicode.com](https://benjicode.com)
 - 🎮 I also stream, create dev content, and have fun on social media!
 
 ---
@@ -25,6 +26,7 @@ I’m a 20-year-old Software Engineer passionate about tech and development. I w
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
@@ -52,7 +54,11 @@ I’m a 20-year-old Software Engineer passionate about tech and development. I w
 
 ---
 
-## 🌐 Social Media
+## 🌐 Social Media & Website
+
+<a href="https://benjicode.com">
+  <img src="https://img.shields.io/badge/Website-benjicode.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
 
 <a href="https://www.instagram.com/benji_jal/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
