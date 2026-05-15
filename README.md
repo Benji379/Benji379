@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Benji JAL 👋</b></h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/108637204?v=4" width="80">
+  <img src="https://avatars.githubusercontent.com/u/108637204" width="80">
 </p>
 
 ## 🧠 About me
